@@ -355,3 +355,17 @@ p {
   text-align: center;
   padding: 30px;
 }
+
+/* JS FUNCTION */
+
+.hide {
+  display: none;
+}
+
+.ativo {
+  display: grid !important;
+}
+
+.ativoA {
+  background: #b07dfb !important;
+}
